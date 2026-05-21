@@ -39,7 +39,7 @@ app.prepare(
 # ===============================
 # Criminal Images Folder
 # ===============================
-IMAGE_DIR = r"E:\Criminal_Recognition\data\criminals"
+IMAGE_DIR = r"E:\Criminal_Recognition\data\CRIMINALS1"
 
 
 if not os.path.exists(IMAGE_DIR):
