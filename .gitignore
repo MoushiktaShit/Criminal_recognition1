@@ -106,3 +106,6 @@ output_result1.mp4".insightface.zip"
 .insightface/ 
 .insightface.zip  .insightface.zip 
 .insightface/ 
+# Ignore local setup files
+.python-version
+.venv_installed.txt
